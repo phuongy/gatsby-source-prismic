@@ -24,7 +24,7 @@
   "dependencies": {
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.4",
-    "prismic-javascript": "^1.1.5"
+    "prismic.io": "^3.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
